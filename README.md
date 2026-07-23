@@ -1,2 +1,5 @@
 # SoftVertexGenerator_IDFM
-Les Vertex utilisées pour le IDFMwiki (construits avec le Soft Vertex Generator)
+Les Vertex utilisés pour le IDFMwiki (construits avec le Soft Vertex Generator)
+
+
+docs à faire après
