@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="1435" xmlns="http://www.w3.org/2000/svg">
+<style>
+text{
+	font-family: sans-serif;
+}
+</style>
+<rect width="14" height="25" x="8" y="25" fill="#FF1400"/>
+<circle cx="15" cy="25" r="8" fill="white" stroke-width="1" stroke="black"/>
+<circle cx="15" cy="25" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Gare_Routi&#232;re_de_Sartrouville" target="_self">
+<text x="30" y="31" style="cursor:pointer;">Gare de Sartrouville</text>
+</a>
+<rect width="14" height="50" x="8" y="50" fill="#FF1400"/>
+<circle cx="15" cy="75" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/H&#244;tel_de_Ville_de_Sartrouville" target="_self">
+<text x="30" y="81" style="cursor:pointer;">H&#244;tel de Ville (Sartrouville)</text>
+</a>
+<rect width="14" height="50" x="8" y="100" fill="#FF1400"/>
+<circle cx="15" cy="125" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/MJC_(Sartrouville)" target="_self">
+<text x="30" y="131" style="cursor:pointer;">MJC</text>
+</a>
+<rect width="14" height="50" x="8" y="150" fill="#FF1400"/>
+<circle cx="15" cy="175" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Bordin" target="_self">
+<text x="30" y="181" style="cursor:pointer;">Bordin</text>
+</a>
+<rect width="14" height="50" x="8" y="200" fill="#FF1400"/>
+<circle cx="15" cy="225" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Guy_de_Maupassant_(Sartrouville)" target="_self">
+<text x="30" y="231" style="cursor:pointer;">Guy de Maupassant</text>
+</a>
+<rect width="14" height="50" x="8" y="250" fill="#FF1400"/>
+<circle cx="15" cy="275" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Martial_Dechard" target="_self">
+<text x="30" y="281" style="cursor:pointer;">Martial Dechard</text>
+</a>
+<rect width="14" height="50" x="8" y="300" fill="#FF1400"/>
+<circle cx="15" cy="325" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Mont_Olivet" target="_self">
+<text x="30" y="331" style="cursor:pointer;">Mont Olivet</text>
+</a>
+<rect width="14" height="50" x="8" y="350" fill="#FF1400"/>
+<circle cx="15" cy="375" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Picardie_(Sartrouville)" target="_self">
+<text x="30" y="381" style="cursor:pointer;">Picardie</text>
+</a>
+<rect width="14" height="50" x="8" y="400" fill="#FF1400"/>
+<circle cx="15" cy="425" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Charles_de_Gaulle_(Sartrouville)" target="_self">
+<text x="30" y="431" style="cursor:pointer;">Charles de Gaulle</text>
+</a>
+<rect width="14" height="50" x="8" y="450" fill="#FF1400"/>
+<polygon points="10,465 20,465 15,455" fill="black"/>
+<circle cx="15" cy="475" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/4_Chemins_(Sartrouville)" target="_self">
+<text x="30" y="481" style="cursor:pointer;">4 Chemins</text>
+</a>
+<rect width="14" height="50" x="8" y="500" fill="#FF1400"/>
+<circle cx="15" cy="525" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Rue_de_Chatou" target="_self">
+<text x="30" y="531" style="cursor:pointer;">Rue de Chatou</text>
+</a>
+<rect width="14" height="50" x="8" y="550" fill="#FF1400"/>
+<circle cx="15" cy="575" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Paul_Bert_(Sartrouville)" target="_self">
+<text x="30" y="581" style="cursor:pointer;">Paul Bert</text>
+</a>
+<rect width="14" height="50" x="8" y="600" fill="#FF1400"/>
+<circle cx="15" cy="625" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Florian_(Sartrouville)" target="_self">
+<text x="30" y="631" style="cursor:pointer;">Florian</text>
+</a>
+<rect width="14" height="50" x="8" y="650" fill="#FF1400"/>
+<circle cx="15" cy="675" r="8" fill="white" stroke-width="1" stroke="black"/>
+<circle cx="15" cy="675" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Condorcet_(Sartrouville)" target="_self">
+<text x="30" y="681" style="cursor:pointer;">Condorcet</text>
+</a>
+<rect width="14" height="50" x="8" y="700" fill="#FF1400"/>
+<circle cx="15" cy="725" r="8" fill="white" stroke-width="1" stroke="black"/>
+<circle cx="15" cy="725" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Val_Notre-Dame_(Argenteuil)" target="_self">
+<text x="30" y="731" style="cursor:pointer;">Val Notre-Dame</text>
+</a>
+<rect width="14" height="50" x="8" y="750" fill="#FF1400"/>
+<circle cx="15" cy="775" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Liserons" target="_self">
+<text x="30" y="781" style="cursor:pointer;">Liserons</text>
+</a>
+<rect width="14" height="50" x="8" y="800" fill="#FF1400"/>
+<circle cx="15" cy="825" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Coll&#232;ge_Albert_Camus" target="_self">
+<text x="30" y="831" style="cursor:pointer;">Coll&#232;ge Albert Camus</text>
+</a>
+<rect width="14" height="50" x="8" y="850" fill="#FF1400"/>
+<circle cx="15" cy="875" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Alouettes_(Argenteuil)" target="_self">
+<text x="30" y="881" style="cursor:pointer;">Alouettes</text>
+</a>
+<rect width="14" height="50" x="8" y="900" fill="#FF1400"/>
+<circle cx="15" cy="925" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Les_Champioux" target="_self">
+<text x="30" y="931" style="cursor:pointer;">Les Champioux</text>
+</a>
+<rect width="14" height="50" x="8" y="950" fill="#FF1400"/>
+<circle cx="15" cy="975" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Baratier" target="_self">
+<text x="30" y="981" style="cursor:pointer;">Baratier</text>
+</a>
+<rect width="14" height="50" x="8" y="1000" fill="#FF1400"/>
+<circle cx="15" cy="1025" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Maurice_Utrillo" target="_self">
+<text x="30" y="1031" style="cursor:pointer;">Maurice Utrillo</text>
+</a>
+<rect width="14" height="50" x="8" y="1050" fill="#FF1400"/>
+<circle cx="15" cy="1075" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Jean_Moulin_(Argenteuil)" target="_self">
+<text x="30" y="1081" style="cursor:pointer;">Jean Moulin</text>
+</a>
+<rect width="14" height="50" x="8" y="1100" fill="#FF1400"/>
+<circle cx="15" cy="1125" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Gandon_Texier" target="_self">
+<text x="30" y="1131" style="cursor:pointer;">Gandon Texier</text>
+</a>
+<rect width="14" height="50" x="8" y="1150" fill="#FF1400"/>
+<circle cx="15" cy="1175" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Calais" target="_self">
+<text x="30" y="1181" style="cursor:pointer;">Calais</text>
+</a>
+<rect width="14" height="50" x="8" y="1200" fill="#FF1400"/>
+<circle cx="15" cy="1225" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Antonin-Georges_Belin" target="_self">
+<text x="30" y="1231" style="cursor:pointer;">Antonin-Georges Belin</text>
+</a>
+<rect width="14" height="50" x="8" y="1250" fill="#FF1400"/>
+<circle cx="15" cy="1275" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/H&#244;tel_de_Ville_d%27Argenteuil" target="_self">
+<text x="30" y="1281" style="cursor:pointer;">H&#244;tel de Ville (Argenteuil)</text>
+</a>
+<rect width="14" height="50" x="8" y="1300" fill="#FF1400"/>
+<circle cx="15" cy="1325" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/L&#233;on_Feix" target="_self">
+<text x="30" y="1331" style="cursor:pointer;">L&#233;on Feix</text>
+</a>
+<rect width="14" height="25" x="8" y="1350" fill="#FF1400"/>
+<circle cx="15" cy="1375" r="8" fill="white" stroke-width="1" stroke="black"/>
+<circle cx="15" cy="1375" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Gare_Routi&#232;re_d%27Argenteuil" target="_self">
+<text x="30" y="1381" style="cursor:pointer;">Gare d'Argenteuil</text>
+</a>
+</svg>
