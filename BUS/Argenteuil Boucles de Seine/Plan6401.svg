@@ -9,7 +9,7 @@ text{
 <circle cx="15" cy="25" r="8" fill="white" stroke-width="1" stroke="black"/>
 <circle cx="15" cy="25" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
 <a href="https://idfmwiki.miraheze.org/wiki/Gare_Routi&#232;re_de_Sartrouville" target="_self">
-<text x="30" y="31" style="cursor:pointer;">Gare de Sartrouville</text>
+<text x="30" y="31" style="cursor:pointer;font-weight:800;">Gare de Sartrouville</text>
 </a>
 <rect width="14" height="50" x="8" y="50" fill="#FF1400"/>
 <circle cx="15" cy="75" r="8" fill="white" stroke-width="1" stroke="black"/>
@@ -76,13 +76,13 @@ text{
 <circle cx="15" cy="675" r="8" fill="white" stroke-width="1" stroke="black"/>
 <circle cx="15" cy="675" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
 <a href="https://idfmwiki.miraheze.org/wiki/Condorcet_(Sartrouville)" target="_self">
-<text x="30" y="681" style="cursor:pointer;">Condorcet</text>
+<text x="30" y="681" style="cursor:pointer;font-weight:800;">Condorcet</text>
 </a>
 <rect width="14" height="50" x="8" y="700" fill="#FF1400"/>
 <circle cx="15" cy="725" r="8" fill="white" stroke-width="1" stroke="black"/>
 <circle cx="15" cy="725" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
 <a href="https://idfmwiki.miraheze.org/wiki/Val_Notre-Dame_(Argenteuil)" target="_self">
-<text x="30" y="731" style="cursor:pointer;">Val Notre-Dame</text>
+<text x="30" y="731" style="cursor:pointer;font-weight:800;">Val Notre-Dame</text>
 </a>
 <rect width="14" height="50" x="8" y="750" fill="#FF1400"/>
 <circle cx="15" cy="775" r="8" fill="white" stroke-width="1" stroke="black"/>
@@ -148,6 +148,6 @@ text{
 <circle cx="15" cy="1375" r="8" fill="white" stroke-width="1" stroke="black"/>
 <circle cx="15" cy="1375" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
 <a href="https://idfmwiki.miraheze.org/wiki/Gare_Routi&#232;re_d%27Argenteuil" target="_self">
-<text x="30" y="1381" style="cursor:pointer;">Gare d'Argenteuil</text>
+<text x="30" y="1381" style="cursor:pointer;font-weight:800;">Gare d'Argenteuil</text>
 </a>
 </svg>
