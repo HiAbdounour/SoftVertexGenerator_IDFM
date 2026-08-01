@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="935" xmlns="http://www.w3.org/2000/svg">
+<style>
+text{
+	font-family: sans-serif;
+}
+</style>
+<rect width="14" height="25" x="8" y="25" fill="#FF1400"/>
+<circle cx="15" cy="25" r="8" fill="white" stroke-width="1" stroke="black"/>
+<circle cx="15" cy="25" r="5" fill="#FF1400" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Gare_Routi&#232;re_d'Argenteuil" target="_self">
+<text x="30" y="31" style="cursor:pointer;font-weight:800;">Gare d'Argenteuil</text>
+</a>
+<rect width="14" height="50" x="8" y="50" fill="#FF1400"/>
+<circle cx="15" cy="75" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Aristide_Briand_(Argenteuil)" target="_self">
+<text x="30" y="81" style="cursor:pointer;">Aristide Briand</text>
+</a>
+<rect width="14" height="50" x="8" y="100" fill="#FF1400"/>
+<circle cx="15" cy="125" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Henri_Vasseur" target="_self">
+<text x="30" y="131" style="cursor:pointer;">Henri Vasseur</text>
+</a>
+<rect width="14" height="50" x="8" y="150" fill="#FF1400"/>
+<circle cx="15" cy="175" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Stalingrad_(Argenteuil)" target="_self">
+<text x="30" y="181" style="cursor:pointer;">Stalingrad</text>
+</a>
+<rect width="14" height="50" x="8" y="200" fill="#FF1400"/>
+<circle cx="15" cy="225" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Vaucelle" target="_self">
+<text x="30" y="231" style="cursor:pointer;">Vaucelle</text>
+</a>
+<rect width="14" height="50" x="8" y="250" fill="#FF1400"/>
+<circle cx="15" cy="275" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Champgu&#233;rin" target="_self">
+<text x="30" y="281" style="cursor:pointer;">Champgu&#233;rin</text>
+</a>
+<rect width="14" height="50" x="8" y="300" fill="#FF1400"/>
+<circle cx="15" cy="325" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Place_Chauvelot" target="_self">
+<text x="30" y="331" style="cursor:pointer;">Place Chauvelot</text>
+</a>
+<rect width="14" height="50" x="8" y="350" fill="#FF1400"/>
+<circle cx="15" cy="375" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/&#206;le-de-France_(Argenteuil)" target="_self">
+<text x="30" y="381" style="cursor:pointer;">&#206;le-de-France</text>
+</a>
+<rect width="14" height="50" x="8" y="400" fill="#FF1400"/>
+<circle cx="15" cy="425" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Lyon_(&#201;pinay-sur-Seine)" target="_self">
+<text x="30" y="431" style="cursor:pointer;">Lyon</text>
+</a>
+<rect width="14" height="50" x="8" y="450" fill="#FF1400"/>
+<polygon points="10,485 20,485 15,495" fill="black"/>
+<circle cx="15" cy="475" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/&#201;pinay_Orgemont_T8" target="_self">
+<text x="30" y="481" style="cursor:pointer;">&#201;pinay – Orgement</text>
+</a>
+<rect width="14" height="50" x="8" y="500" fill="#FF1400"/>
+<polygon points="10,515 20,515 15,505" fill="black"/>
+<circle cx="15" cy="525" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Rue_de_Marseille_(&#201;pinay-sur-Seine)" target="_self">
+<text x="30" y="531" style="cursor:pointer;">Rue de Marseille</text>
+</a>
+<rect width="14" height="50" x="8" y="550" fill="#FF1400"/>
+<circle cx="15" cy="575" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Dunkerque_(&#201;pinay-sur-Seine)" target="_self">
+<text x="30" y="581" style="cursor:pointer;">Dunkerque</text>
+</a>
+<rect width="14" height="50" x="8" y="600" fill="#FF1400"/>
+<circle cx="15" cy="625" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Cygne_d'Enghien_–_Joffre" target="_self">
+<text x="30" y="631" style="cursor:pointer;">Cygne d'Enghien – Joffre</text>
+</a>
+<rect width="14" height="50" x="8" y="650" fill="#FF1400"/>
+<circle cx="15" cy="675" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Rue_de_Saint-Gratien" target="_self">
+<text x="30" y="681" style="cursor:pointer;">Rue de Saint-Gratien</text>
+</a>
+<rect width="14" height="50" x="8" y="700" fill="#FF1400"/>
+<circle cx="15" cy="725" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Limite_des_D&#233;partements_(&#201;pinay-sur-Seine)" target="_self">
+<text x="30" y="731" style="cursor:pointer;">Limite des D&#233;partements</text>
+</a>
+<rect width="14" height="50" x="8" y="750" fill="#FF1400"/>
+<circle cx="15" cy="775" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Casino" target="_self">
+<text x="30" y="781" style="cursor:pointer;">Casino</text>
+</a>
+<rect width="14" height="50" x="8" y="800" fill="#FF1400"/>
+<polygon points="10,835 20,835 15,845" fill="black"/>
+<circle cx="15" cy="825" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Mairie_d'Enghien-les-Bains" target="_self">
+<text x="30" y="831" style="cursor:pointer;">Mairie</text>
+</a>
+<rect width="14" height="50" x="8" y="850" fill="#FF1400"/>
+<circle cx="15" cy="875" r="8" fill="white" stroke-width="1" stroke="black"/>
+<a href="https://idfmwiki.miraheze.org/wiki/Gare_Routi&#232;re_Rue_de_l'Arriv&#233;e_(Enghien)" target="_self">
+<text x="30" y="881" style="cursor:pointer;">Gare d'Enghien-les-Bains</text>
+</a>
+</svg>
