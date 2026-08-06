@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="bus" color="bleu_fonce" maxpb="1" output="Plan6404.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+        <branch>
+            <stop terminus="true" curz='start'>
+                <name>Gare du Vésinet – Le Pecq</name>
+                <wikiref>Gare_Routière_Nord_(Le_Vésinet_Le_Pecq)</wikiref>
+            </stop>
+            <stop>
+                <name>Belloy</name>
+                <wikiref>Belloy</wikiref>
+            </stop>
+			<stop>
+                <name>Charmettes</name>
+                <wikiref>Charmettes</wikiref>
+            </stop>
+			<stop>
+                <name>Landes</name>
+                <wikiref>Landes</wikiref>
+            </stop>
+			<stop>
+                <name>Stade Finaltéry</name>
+                <wikiref>Stade_Finaltéry</wikiref>
+            </stop>
+			<stop>
+                <name>Sabinettes</name>
+                <wikiref>Sabinettes</wikiref>
+            </stop>
+			<stop>
+                <name>Cormiers Ricard</name>
+                <wikiref>Cormiers_Ricard</wikiref>
+            </stop>
+			<stop>
+                <name>Place du Docteur Roux</name>
+                <wikiref>Place_du_Docteur_Roux</wikiref>
+            </stop>
+			<stop>
+                <name>Ribot Barbier</name>
+                <wikiref>Ribot_Barbier</wikiref>
+            </stop>
+			<stop>
+                <name>Maurice de Vlaminck</name>
+                <wikiref>Maurice_de_Vlaminck</wikiref>
+            </stop>
+			<stop terminus="true">
+                <name>Renoir</name>
+                <wikiref>Renoir_(Chatou)</wikiref>
+            </stop>
+			<stop>
+                <name>Collège Auguste Renoir</name>
+                <wikiref>Collège_Auguste_Renoir</wikiref>
+            </stop>
+			<stop>
+                <name>Parc de l'Europe</name>
+                <wikiref>Parc_de_l'Europe_(Chatou)</wikiref>
+            </stop>
+			<stop>
+                <name>Monceau</name>
+                <wikiref>Monceau_(Carrières-sur-Seine)</wikiref>
+            </stop>
+			<stop>
+                <name>Bercail</name>
+                <wikiref>Bercail</wikiref>
+            </stop>
+			<stop>
+                <name>Égalité</name>
+                <wikiref>Égalité_(Carrières-sur-Seine)</wikiref>
+            </stop>
+			<stop>
+                <name>Général Leclerc</name>
+                <wikiref>Général_Leclerc_(Carrières-sur-Seine)</wikiref>
+            </stop>
+			<stop>
+                <name>Grande Rue</name>
+                <wikiref>Grande_Rue_(Carrières-sur-Seine)</wikiref>
+            </stop>
+			<stop>
+                <name>Maréchal Juin</name>
+                <wikiref>Maréchal_Juin_(Carrières-sur-Seine)</wikiref>
+            </stop>
+			<stop>
+                <name>Salle des Fêtes</name>
+                <wikiref>Salle_des_Fêtes_(Carrières-sur-Seine)</wikiref>
+            </stop>
+			<stop>
+                <name>Maurice Berteaux</name>
+                <wikiref>Maurice_Berteaux_(Carrières-sur-Seine)</wikiref>
+            </stop>
+            <stop terminus="true" curz="end">
+                <name>Gare de Houilles – Carrières-sur-Seine</name>
+                <wikiref>Gare_Routière_de_Houilles_Carrières-sur-Seine</wikiref>
+            </stop>
+        </branch>
+    </line>
+</svg_generation>

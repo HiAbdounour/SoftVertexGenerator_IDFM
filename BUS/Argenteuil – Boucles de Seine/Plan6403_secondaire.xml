@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="bus" color="marron" maxpb="1" output="Plan6403_secondaire.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine">
+    <line>
+        <branch>
+            <stop terminus="true" curz='start'>
+                <name>Gare d'Argenteuil</name>
+                <wikiref>Gare_Routière_d'Argenteuil</wikiref>
+            </stop>
+            <stop>
+                <name>Léon Feix</name>
+                <wikiref>Léon_Feix</wikiref>
+            </stop>
+            <stop only="up">
+                <name>Hôtel de Ville</name>
+                <wikiref>Hôtel_de_Ville_d'Argenteuil</wikiref>
+            </stop>
+			<stop>
+                <name>Gabriel Péri</name>
+                <wikiref>Gabriel_Péri_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Gobelins</name>
+                <wikiref>Gobelins_(Argenteuil)</wikiref>
+            </stop>
+			<stop only="down">
+                <name>Jean Borderel</name>
+                <wikiref>Borderel_–_Héloïse</wikiref>
+            </stop>
+			<stop only="up">
+                <name>Petit Marly</name>
+                <wikiref>Petit_Marly_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Charles de Gaulle – Henri Barbusse</name>
+                <wikiref>Charles_de_Gaulle_–_Henri_Barbusse</wikiref>
+            </stop>
+			<stop>
+                <name>Clément Ader</name>
+                <wikiref>Clément_Ader_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Prudhon</name>
+                <wikiref>Prudhon</wikiref>
+            </stop>
+			<stop>
+                <name>Hôpital Victor Dupouy</name>
+                <wikiref>Hôpital_Victor_Dupouy</wikiref>
+            </stop>
+			<stop>
+                <name>Charcot</name>
+                <wikiref>Charcot_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Bretagne</name>
+                <wikiref>Bretagne_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Place François Rabelais</name>
+                <wikiref>Place_François_Rabelais</wikiref>
+            </stop>
+			<stop>
+                <name>Gare du Val d'Argenteuil</name>
+                <wikiref>Gare_du_Val_d'Argenteuil</wikiref>
+            </stop>
+			<stop>
+                <name>Jean Lurçat</name>
+                <wikiref>Jean_Lurçat_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Rue de Coudray</name>
+                <wikiref>Rue_de_Coudray</wikiref>
+            </stop>
+			<stop>
+                <name>Route de Cormeilles</name>
+                <wikiref>Route_de_Cormeilles</wikiref>
+            </stop>
+			<stop>
+                <name>Pierre de Coubertin</name>
+                <wikiref>Pierre_de_Coubertin_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Collège Claude Monet</name>
+                <wikiref>Collège_Claude_Monet_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Beethoven</name>
+                <wikiref>Beethoven</wikiref>
+            </stop>
+            <stop terminus="true" curz="end">
+                <name>Bérionne</name>
+                <wikiref>Bérionne</wikiref>
+            </stop>
+        </branch>
+    </line>
+</svg_generation>
