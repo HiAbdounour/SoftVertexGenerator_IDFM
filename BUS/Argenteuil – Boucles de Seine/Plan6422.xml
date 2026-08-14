@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="orange" maxpb="1" output="Plan6422.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+        <branch>
+			<stop terminus="true" curz="start">
+				<name>Le Moulin</name>
+				<wikiref>Le_Moulin_(Sannois)</wikiref>
+			</stop>
+			<stop only="down">
+				<name>Joffre</name>
+				<wikiref>Résidence_du_Moulin</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Romain Rolland</name>
+				<wikiref>Romain_Rolland_(Sannois)</wikiref>
+			</stop>
+			<stop>
+				<name>Rosières</name>
+				<wikiref>Rosières</wikiref>
+			</stop>
+			<stop>
+				<name>Pyrénées</name>
+				<wikiref>Pyrénées_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Petite Ruelle</name>
+				<wikiref>Petite_Ruelle</wikiref>
+			</stop>
+			<stop>
+				<name>Grande Voie</name>
+				<wikiref>Grande_Voie</wikiref>
+			</stop>
+			<stop>
+				<name>Clemenceau</name>
+				<wikiref>Clemenceau_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Marceau Guillot</name>
+				<wikiref>Marceau_Guillot</wikiref>
+			</stop>
+			<stop>
+				<name>Pierre Curie</name>
+				<wikiref>Pierre_Curie_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Temple</name>
+				<wikiref>Temple_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Hôtel de Ville</name>
+				<wikiref>Hôtel_de_Ville_d'Argenteuil</wikiref>
+			</stop>
+			<stop>
+				<name>Léon Feix</name>
+				<wikiref>Léon_Feix</wikiref>
+			</stop>
+			<stop terminus="true" curz="end">
+				<name>Gare d'Argenteuil</name>
+				<wikiref>Gare_Routière_d'Argenteuil</wikiref>
+			</stop>
+        </branch>
+    </line>
+</svg_generation>
