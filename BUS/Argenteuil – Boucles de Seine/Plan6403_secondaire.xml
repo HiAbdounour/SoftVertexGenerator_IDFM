@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xml>
-<svg_generation type="bus" color="marron" maxpb="1" output="Plan6403_secondaire.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine">
+<svg_generation type="BUS" color="marron" maxpb="1" output="Plan6403_secondaire.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
     <line>
         <branch>
             <stop terminus="true" curz='start'>
