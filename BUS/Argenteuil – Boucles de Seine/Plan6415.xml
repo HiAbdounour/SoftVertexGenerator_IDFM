@@ -1,72 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xml>
 <svg_generation type="BUS" color="bleu_clair" maxpb="1" output="Plan6415.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
-    <line>
-		<branch>
-			<stop terminus="true" curz="start">
-                <name>Gare du Vésinet – Le Pecq</name>
-                <wikiref>Gare_Routière_Nord_(Le_Vésinet_–_Le_Pecq)</wikiref>
-            </stop>
-			<stop only="down">
-                <name>Champs Maraîchers</name>
-                <wikiref>Champs_Maraîchers</wikiref>
-            </stop>
-			<stop>
-                <name>Franklin Roosevelt</name>
-                <wikiref>Franklin_Roosevelt_(Le_Vésinet)</wikiref>
-            </stop>
-			<stop>
-                <name>Stade des Merlettes</name>
-                <wikiref>Stade_des_Merlettes</wikiref>
-            </stop>
-			<stop>
-                <name>Roger Salengro</name>
-                <wikiref>Roger_Salengro(Chatou_/_Le_Vésinet)</wikiref>
-            </stop>
-			<stop>
-                <name>Cormeilles</name>
-                <wikiref>Cormeilles</wikiref>
-            </stop>
-			<stop>
-                <name>Terres Blanches</name>
-                <wikiref>Terres_Blanches_(Chatou)</wikiref>
-            </stop>
-			<stop>
-                <name>Curie Pages</name>
-                <wikiref>Curie_Pages</wikiref>
-            </stop>
-			<stop only="down">
-                <name>Sablons Darcis</name>
-                <wikiref>Sablons_Darcis</wikiref>
-            </stop>
-			<stop>
-                <name>Collège Pablo Picasso</name>
-                <wikiref>Collège_Pablo_Picasso_(Montesson)</wikiref>
-            </stop>
-			<stop terminus="true">
-                <name>Cimetière</name>
-                <wikiref>Cimetière_de_Montesson</wikiref>
-            </stop>
-			<stop only="down">
-                <name>Marais</name>
-                <wikiref>Marais_(Montesson)</wikiref>
-            </stop>
-			<stop only="down">
-                <name>Église</name>
-                <wikiref>Église_de_Montesson</wikiref>
-            </stop>
-			<stop only="down">
-                <name>Général Leclerc</name>
-                <wikiref>Général_Leclerc_(Montesson)</wikiref>
-            </stop>
-			<stop only="down">
-                <name>Victor Hugo</name>
-                <wikiref>Victor_Hugo_(Montesson)</wikiref>
-            </stop>
-			<stop terminus="true" curz="end">
-                <name>La Tour</name>
-                <wikiref>La_Tour_(Montesson)</wikiref>
-            </stop>
-		</branch>
-    </line>
+<line>
+<branch>
+<stop terminus="true" curz="start">
+<name>Gare du Vésinet – Le Pecq</name>
+<wikiref>Gare_Routière_Nord_(Le_Vésinet_–_Le_Pecq)</wikiref>
+</stop>
+<stop only="down">
+<name>Champs Maraîchers</name>
+<wikiref>Champs_Maraîchers</wikiref>
+</stop>
+<stop>
+<name>Franklin Roosevelt</name>
+<wikiref>Franklin_Roosevelt_(Le_Vésinet)</wikiref>
+</stop>
+<stop>
+<name>Stade des Merlettes</name>
+<wikiref>Stade_des_Merlettes</wikiref>
+</stop>
+<stop>
+<name>Roger Salengro</name>
+<wikiref>Roger_Salengro(Chatou_/_Le_Vésinet)</wikiref>
+</stop>
+<stop>
+<name>Cormeilles</name>
+<wikiref>Cormeilles</wikiref>
+</stop>
+<stop>
+<name>Terres Blanches</name>
+<wikiref>Terres_Blanches_(Chatou)</wikiref>
+</stop>
+<stop>
+<name>Curie Pages</name>
+<wikiref>Curie_Pages</wikiref>
+</stop>
+<stop only="down">
+<name>Sablons Darcis</name>
+<wikiref>Sablons_Darcis</wikiref>
+</stop>
+<stop>
+<name>Collège Pablo Picasso</name>
+<wikiref>Collège_Pablo_Picasso_(Montesson)</wikiref>
+</stop>
+<stop terminus="true">
+<name>Cimetière</name>
+<wikiref>Cimetière_de_Montesson</wikiref>
+</stop>
+<stop only="down">
+<name>Marais</name>
+<wikiref>Marais_(Montesson)</wikiref>
+</stop>
+<stop only="down">
+<name>Église</name>
+<wikiref>Église_de_Montesson</wikiref>
+</stop>
+<stop only="down">
+<name>Général Leclerc</name>
+<wikiref>Général_Leclerc_(Montesson)</wikiref>
+</stop>
+<stop only="down">
+<name>Victor Hugo</name>
+<wikiref>Victor_Hugo_(Montesson)</wikiref>
+</stop>
+<stop terminus="true" curz="end">
+<name>La Tour</name>
+<wikiref>La_Tour_(Montesson)</wikiref>
+</stop>
+</branch>
+</line>
 </svg_generation>
