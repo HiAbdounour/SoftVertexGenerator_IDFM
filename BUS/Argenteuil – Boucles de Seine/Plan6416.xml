@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="violet" maxpb="1" output="Plan6416.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+		<branch>
+			<stop terminus="true" curz="start">
+                <name>Gare de Houilles – Carrières-sur-Seine</name>
+                <wikiref>Gare_Routière_de_Houilles_–_Carrières-sur-Seine</wikiref>
+            </stop>
+			<stop>
+                <name>La Fontaine</name>
+                <wikiref>La_Fontaine_(Houilles)</wikiref>
+			</stop>
+			<stop>
+                <name>Calmette</name>
+                <wikiref>Calmette_(Houilles)</wikiref>
+			</stop>
+			<stop only="up">
+                <name>Grand Cerf</name>
+                <wikiref>Grand_Cerf_Jaurès</wikiref>
+			</stop>
+			<stop only="down">
+                <name>Grand Cerf Jaurès</name>
+                <wikiref>Grand_Cerf_Jaurès</wikiref>
+			</stop>
+			<stop>
+                <name>Émile Zola</name>
+                <wikiref>Zola_(Bezons)</wikiref>
+			</stop>
+			<stop>
+                <name>Henri Barbusse</name>
+                <wikiref>Henri_Barbusse_(Bezons)</wikiref>
+			</stop>
+			<stop>
+                <name>La Grâce de Dieu</name>
+                <wikiref>La_Grâce_de_Dieu</wikiref>
+			</stop>
+			<stop>
+                <name>Pont de Bezons T2</name>
+                <wikiref>Pont_de_Bezons_T2</wikiref>
+			</stop>
+			<stop>
+                <name>Jaurès Branchard</name>
+                <wikiref>Jaurès_Branchard</wikiref>
+			</stop>
+			<stop>
+                <name>Victor Hugo</name>
+                <wikiref>Victor_Hugo_(Bezons)</wikiref>
+			</stop>
+			<stop>
+                <name>Général Delambre</name>
+                <wikiref>Général_Delambre</wikiref>
+			</stop>
+			<stop>
+                <name>Avenue du Marais</name>
+                <wikiref>Avenue_du_Marais</wikiref>
+			</stop>
+			<stop only="up">
+                <name>Pont Neuf</name>
+                <wikiref>Pont_Neuf_(Argenteuil)</wikiref>
+			</stop>
+			<stop only="up">
+                <name>Aristide Briand</name>
+                <wikiref>Aristide_Briand_(Argenteuil)</wikiref>
+			</stop>			
+			<stop terminus="true" curz="end">
+                <name>Gare d'Argenteuil</name>
+                <wikiref>Gare_Routière_d'Argenteuil</wikiref>
+            </stop>
+		</branch>
+    </line>
+</svg_generation>
