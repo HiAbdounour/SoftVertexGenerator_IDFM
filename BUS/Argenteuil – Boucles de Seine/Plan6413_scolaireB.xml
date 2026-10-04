@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="vert_fonce" maxpb="2" output="Plan6413_scolaireB.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+        <branch>
+			<stop terminus="true" curz='start' only='up' >
+                <name>Gare de Cormeilles-en-Parisis</name>
+                <wikiref>Gare_Routière_Sud_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Boulevard des Eaux</name>
+                <wikiref>Boulevard_des_Eaux</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Les Feuillets</name>
+                <wikiref>Les_Feuillets</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Carnot</name>
+                <wikiref>Carnot_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+            <stop only='up' >
+                <name>Jules Ferry</name>
+                <wikiref>Jules_Ferry_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Rue Charles Fourier</name>
+                <wikiref>Rue_Charles_Fourier</wikiref>
+            </stop>
+            <stop only='up' >
+                <name>Édouard Imbs</name>
+                <wikiref>Édouard_Imbs</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Fauvettes</name>
+                <wikiref>Fauvettes_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop only='up'>
+                <name>Les Écrivains</name>
+                <wikiref>Les_Écrivains</wikiref>
+            </stop>
+			<stop only="up">
+                <name>Collège Louis Hayet</name>
+                <wikiref>Collège_Louis_Hayet</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Place des Arts</name>
+                <wikiref>Place_des_Arts</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Rond-Point du Cormier</name>
+                <wikiref>Rond-Point_du_Cormier</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Les Bruyères</name>
+                <wikiref>Les_Bruyères_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Les Coudrées</name>
+                <wikiref>Les_Coudrées</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Sureaux</name>
+                <wikiref>Sureaux</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Val Notre-Dame</name>
+                <wikiref>Val_Notre-Dame_(Argenteuil)</wikiref>
+            </stop>
+			<stop only='up' >
+				<name>La Berthie</name>
+				<wikiref>La_Berthie</wikiref>
+			</stop>
+			<stop only='up' >
+				<name>Albert 1er</name>
+				<wikiref>Albert_1er</wikiref>
+			</stop>
+			<stop only='up' >
+                <name>Justice</name>
+                <wikiref>Justice_(Bezons)</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Colonel Fabien</name>
+                <wikiref>Colonel_Fabien_(Bezons)</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>Parmentier</name>
+                <wikiref>Parmentier_(Bezons)</wikiref>
+            </stop>
+			<stop only='up' >
+                <name>La Grâce de Dieu</name>
+                <wikiref>La_Grâce_de_Dieu</wikiref>
+            </stop>
+            <stop only='up' terminus="true" curz="end">
+                <name>Pont de Bezons</name>
+                <wikiref>Gare_Routière_Pont_de_Bezons</wikiref>
+            </stop>
+        </branch>
+    </line>
+</svg_generation>

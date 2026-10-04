@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="vert_fonce" maxpb="2" output="Plan6413_scolaireA.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+        <branch>
+            <stop terminus="true" curz='start'>
+                <name>Jules Ferry</name>
+                <wikiref>Jules_Ferry_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop>
+                <name>Carnot</name>
+                <wikiref>Carnot_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop>
+                <name>Les Feuillets</name>
+                <wikiref>Les_Feuillets</wikiref>
+            </stop>
+			<stop>
+                <name>Boulevard des Eaux</name>
+                <wikiref>Boulevard_des_Eaux</wikiref>
+            </stop>
+			<stop>
+                <name>Rue Charles Fourier</name>
+                <wikiref>Rue_Charles_Fourier</wikiref>
+            </stop>
+            <stop>
+                <name>Édouard Imbs</name>
+                <wikiref>Édouard_Imbs</wikiref>
+            </stop>
+			<stop>
+                <name>Fauvettes</name>
+                <wikiref>Fauvettes_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop terminus='true'>
+                <name>Les Écrivains</name>
+                <wikiref>Les_Écrivains</wikiref>
+            </stop>
+			<stop only="up" terminus='true' curz='end'>
+                <name>Collège Louis Hayet</name>
+                <wikiref>Collège_Louis_Hayet</wikiref>
+            </stop>
+        </branch>
+    </line>
+</svg_generation>
