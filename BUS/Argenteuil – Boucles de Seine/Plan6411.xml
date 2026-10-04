@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="bleu_fonce" maxpb="2" output="Plan6411.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+        <branch>
+            <stop terminus="true" curz='start'>
+                <name>Gare de Sartrouville</name>
+                <wikiref>Gare_Routière_de_Sartrouville</wikiref>
+            </stop>
+            <stop>
+                <name>Poste</name>
+                <wikiref>Poste_(Sartrouville)</wikiref>
+            </stop>
+			<stop>
+                <name>Masures</name>
+                <wikiref>Masures</wikiref>
+            </stop>
+			<stop>
+                <name>Temple</name>
+                <wikiref>Temple_(Sartrouville)</wikiref>
+            </stop>
+		</branch>
+		<loop>
+			<loopup>
+				<stop>
+					<name>Suger</name>
+					<wikiref>Suger</wikiref>
+				</stop>
+				<stop>
+					<name>Roosevelt</name>
+					<wikiref>Roosevelt_(Sartrouville)</wikiref>
+				</stop>
+				<stop>
+					<name>Église</name>
+					<wikiref>Église_de_Sartouville</wikiref>
+				</stop>
+			</loopup>
+			<loopdown>
+				<stop>
+					<name>Docteur Roux</name>
+					<wikiref>Docteur_Roux_(Sartrouville)</wikiref>
+				</stop>
+				<stop>
+					<name>Martial Déchard</name>
+					<wikiref>Martial_Déchard</wikiref>
+				</stop>
+				<stop>
+					<name>Mont Olivet</name>
+					<wikiref>Mont_Olivet</wikiref>
+				</stop>
+			</loopdown>
+		</loop>
+		<branch>
+			<stop>
+                <name>Picardie</name>
+                <wikiref>Picardie_(Sartrouville)</wikiref>
+            </stop>
+			<stop>
+                <name>Charles de Gaulle</name>
+                <wikiref>Charles_de_Gaulle_(Sartrouville)</wikiref>
+            </stop>
+			<stop>
+                <name>Neruda</name>
+                <wikiref>Neruda</wikiref>
+            </stop>
+			<stop>
+                <name>Robert Schuman</name>
+                <wikiref>Robert_Schuman_(Sartrouville)</wikiref>
+            </stop>
+			<stop>
+                <name>Centre Commercial</name>
+                <wikiref>Centre_Commercial_(Sartrouville)</wikiref>
+            </stop>
+			<stop>
+                <name>Cité des Indes</name>
+                <wikiref>Cité_des_Indes</wikiref>
+            </stop>
+			<stop>
+                <name>Berry</name>
+                <wikiref>Berry_(Sartrouville)</wikiref>
+            </stop>
+			<stop>
+                <name>Sureaux</name>
+                <wikiref>Sureaux</wikiref>
+            </stop>
+			<stop>
+                <name>Fosse aux Loups</name>
+                <wikiref>Fosse_aux_Loups</wikiref>
+            </stop>
+			<stop terminus='true'>
+                <name>Jean Poulmarch</name>
+                <wikiref>Jean_Poulmarch</wikiref>
+            </stop>
+			<stop>
+                <name>Martyrs de Chateaubriant</name>
+                <wikiref>Martyrs_de_Chateaubriant_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Rue de la Bérionne</name>
+                <wikiref>Rue_de_la_Bérionne</wikiref>
+            </stop>
+			<stop>
+                <name>Fernand Léger</name>
+                <wikiref>Fernand_Léger_(Argenteuil)</wikiref>
+            </stop>
+			<stop terminus='true'>
+                <name>Gare du Val d'Argenteuil</name>
+                <wikiref>Gare_Routière_du_Val_d'Argenteuil</wikiref>
+            </stop>
+			<stop>
+                <name>Félifeu</name>
+                <wikiref>Félifeu</wikiref>
+            </stop>
+			<stop>
+                <name>Marceau Guillot</name>
+                <wikiref>Marceau_Guillot</wikiref>
+            </stop>
+			<stop>
+                <name>Anatole Lucas</name>
+                <wikiref>Anatole_Lucas</wikiref>
+            </stop>
+			<stop>
+                <name>Saint-Quentin</name>
+                <wikiref>Saint-Quentin_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Pont Blanc</name>
+                <wikiref>Pont_Blanc_(Argenteuil)</wikiref>
+            </stop>
+			<stop>
+                <name>Jean Allemane</name>
+                <wikiref>Jean_Allemane</wikiref>
+            </stop>
+            <stop terminus="true" curz="end">
+                <name>Gare d'Argenteuil</name>
+                <wikiref>Gare_Routière_d'Argenteuil</wikiref>
+            </stop>
+        </branch>
+    </line>
+</svg_generation>
