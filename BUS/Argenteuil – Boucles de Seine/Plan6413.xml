@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="vert_fonce" maxpb="2" output="Plan6413.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+        <branch>
+            <stop terminus="true" curz='start'>
+                <name>Gare de Cormeilles-en-Parisis</name>
+                <wikiref>Gare_Routière_Sud_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+            <stop>
+                <name>Édouard Imbs</name>
+                <wikiref>Édouard_Imbs</wikiref>
+            </stop>
+			<stop>
+                <name>Fauvettes</name>
+                <wikiref>Fauvettes_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop>
+                <name>Les Écrivains</name>
+                <wikiref>Les_Écrivains</wikiref>
+            </stop>
+			<stop only="up">
+                <name>Collège Louis Hayet</name>
+                <wikiref>Collège_Louis_Hayet</wikiref>
+            </stop>
+			<stop>
+                <name>Place des Arts</name>
+                <wikiref>Place_des_Arts</wikiref>
+            </stop>
+			<stop>
+                <name>Rond-Point du Cormier</name>
+                <wikiref>Rond-Point_du_Cormier</wikiref>
+            </stop>
+			<stop>
+                <name>Les Bruyères</name>
+                <wikiref>Les_Bruyères_(Cormeilles-en-Parisis)</wikiref>
+            </stop>
+			<stop>
+                <name>Les Coudrées</name>
+                <wikiref>Les_Coudrées</wikiref>
+            </stop>
+			<stop>
+                <name>Sureaux</name>
+                <wikiref>Sureaux</wikiref>
+            </stop>
+			<stop>
+                <name>Val Notre-Dame</name>
+                <wikiref>Val_Notre-Dame_(Argenteuil)</wikiref>
+            </stop>
+		</branch>
+		<loop>
+			<loopdown>
+				<stop>
+					<name>Liserons</name>
+					<wikiref>Liserons</wikiref>
+				</stop>
+				<stop>
+					<name>Collège Albert Camus</name>
+					<wikiref>Collège_Albert_Camus</wikiref>
+				</stop>
+				<stop>
+					<name>Marguerite</name>
+					<wikiref>Marguerite_(Argenteuil)</wikiref>
+				</stop>
+				<stop>
+					<name>Gibet</name>
+					<wikiref>Gibet</wikiref>
+				</stop>
+			</loopdown>
+			<loopup>
+				<stop>
+					<name>La Berthie</name>
+					<wikiref>La_Berthie</wikiref>
+				</stop>
+				<stop>
+					<name>Albert 1er</name>
+					<wikiref>Albert_1er</wikiref>
+				</stop>
+			</loopup>
+		</loop>
+		<branch>
+			<stop>
+                <name>Justice</name>
+                <wikiref>Justice_(Bezons)</wikiref>
+            </stop>
+			<stop>
+                <name>Colonel Fabien</name>
+                <wikiref>Colonel_Fabien_(Bezons)</wikiref>
+            </stop>
+			<stop>
+                <name>Parmentier</name>
+                <wikiref>Parmentier_(Bezons)</wikiref>
+            </stop>
+			<stop>
+                <name>La Grâce de Dieu</name>
+                <wikiref>La_Grâce_de_Dieu</wikiref>
+            </stop>
+            <stop terminus="true" curz="end">
+                <name>Gare d'Argenteuil</name>
+                <wikiref>Gare_Routière_d'Argenteuil</wikiref>
+            </stop>
+        </branch>
+    </line>
+</svg_generation>
