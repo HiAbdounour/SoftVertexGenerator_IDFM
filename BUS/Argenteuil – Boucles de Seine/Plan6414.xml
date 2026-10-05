@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="vert_clair" maxpb="2" output="Plan6414.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+        <branch>
+			<stop terminus="true" curz='start'>
+				<name>Gare de Houilles – Carrières-sur-Seine</name>
+				<wikiref>Gare_Routière_de_Houilles_Carrières-sur-Seine</wikiref>
+			</stop>
+			<stop>
+				<name>La Fontaine</name>
+				<wikiref>La_Fontaine_(Houilles)</wikiref>
+			</stop>
+			<stop>
+				<name>Calmette</name>
+				<wikiref>Calmette_(Houilles)</wikiref>
+			</stop>
+			<stop only='up'>
+				<name>Grand Cerf</name>
+				<wikiref>Grand_Cerf_Jaurès</wikiref>
+			</stop>
+			<stop only='down'>
+				<name>Grand Cerf Jaurès</name>
+				<wikiref>Grand_Cerf_Jaurès</wikiref>
+			</stop>
+			<stop>
+				<name>Émile Zola</name>
+				<wikiref>Zola_(Bezons)</wikiref>
+			</stop>
+			<stop>
+				<name>Henri Barbusse</name>
+				<wikiref>Henri_Barbusse_(Bezons)</wikiref>
+			</stop>
+		</branch>
+		<loop>
+			<loopdown>
+				<stop>
+					<name>Docteur Rouquès</name>
+					<wikiref>Docteur_Rouquès</wikiref>
+				</stop>
+				<stop>
+					<name>Anjou</name>
+					<wikiref>Anjou_(Bezons)</wikiref>
+				</stop>
+			</loopdown>
+			<loopup>
+				<stop>
+					<name>Édouard Vaillant</name>
+					<wikiref>Édouard_Vaillant_(Bezons)</wikiref>
+				</stop>
+				<stop>
+					<name>Paul Éluard</name>
+					<wikiref>Paul_Éluard_(Bezons)</wikiref>
+				</stop>
+				<stop>
+					<name>Albert 1er</name>
+					<wikiref>Albert_1er</wikiref>
+				</stop>
+			</loopup>
+		</loop>
+		<branch>
+			<stop>
+				<name>Joliot Curie</name>
+				<wikiref>Joliot_Curie_(Bezons)</wikiref>
+			</stop>
+			<stop>
+				<name>Paul Potdevin</name>
+				<wikiref>Paul_Potdevin</wikiref>
+			</stop>
+			<stop>
+				<name>Sacco et Vanzetti</name>
+				<wikiref>Sacco_et_Vanzetti</wikiref>
+			</stop>
+			<stop>
+				<name>La Berthie</name>
+				<wikiref>La_Berthie</wikiref>
+			</stop>
+			<stop terminus='true'>
+				<name>Val Notre-Dame</name>
+				<wikiref>Val_Notre-Dame_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Le Prunet</name>
+				<wikiref>Le_Prunet</wikiref>
+			</stop>
+			<stop only='up'>
+				<name>Violettes</name>
+				<wikiref>Violettes_(Argenteuil)</wikiref>
+			</stop>
+			<stop only='down'>
+				<name>Résédas</name>
+				<wikiref>Résédas</wikiref>
+			</stop>
+			<stop only='down'>
+				<name>Marjolaine</name>
+				<wikiref>Marjolaine_(Argenteuil)</wikiref>
+			</stop>
+			<stop terminus='true'>
+				<name>Courlis</name>
+				<wikiref>Courlis</wikiref>
+			</stop>
+			<stop>
+				<name>Érables</name>
+				<wikiref>Érables_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Victoire</name>
+				<wikiref>Victoire_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Troupeau</name>
+				<wikiref>Troupeau</wikiref>
+			</stop>
+			<stop>
+				<name>Rethondes</name>
+				<wikiref>Rethondes</wikiref>
+			</stop>
+			<stop>
+				<name>Place Léopold Hirsch</name>
+				<wikiref>Place_Léopold_Hirsch</wikiref>
+			</stop>
+			<stop>
+				<name>Square Aquitaine</name>
+				<wikiref>Square_Aquitaine</wikiref>
+			</stop>
+			<stop>
+				<name>Bretagne</name>
+				<wikiref>Bretagne</wikiref>
+			</stop>
+			<stop>
+				<name>Charcot</name>
+				<wikiref>Charcot_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Ernestine</name>
+				<wikiref>Ernestine_(Argenteuil)</wikiref>
+			</stop>
+			<stop>
+				<name>Rechsteiner</name>
+				<wikiref>Rechsteiner</wikiref>
+			</stop>
+			<stop>
+				<name>Antonin-Georges Belin</name>
+				<wikiref>Antonin-Georges_Belin</wikiref>
+			</stop>
+			<stop>
+				<name>Hôtel de Ville</name>
+				<wikiref>Hôtel_de_Ville_d'Argenteuil</wikiref>
+			</stop>
+			<stop>
+				<name>Léon Feix</name>
+				<wikiref>Léon_Feix</wikiref>
+			</stop>
+			<stop terminus='true' curz='end'>
+				<name>Gare d'Argenteuil</name>
+				<wikiref>Gare_Routière_d'Argenteuil</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
