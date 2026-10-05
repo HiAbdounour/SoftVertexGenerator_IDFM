@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="vert_fonce" maxpb="2" output="Plan6417_secondaire.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+        <branch>
+			<stop terminus="true" curz='start'>
+				<name>Gare de Rueil-Malmaison</name>
+				<note>Terminus en gare routière</note>
+				<wikiref>Gare_Routière_de_Rueil_Malmaison</wikiref>
+			</stop>
+			<stop only='up'>
+				<name>Estienne d'Orves</name>
+				<wikiref>Estienne_d'Orves_(Rueil-Malmaison)</wikiref>
+			</stop>
+			<stop only='up'>
+				<name>Gare de Rueil-Malmaison</name>
+				<note>Arrêt en retrait</note>
+				<wikiref>Gare_de_Rueil_Malmaison</wikiref>
+			</stop>
+			<stop>
+				<name>Mairie</name>
+				<wikiref>Mairie_de_Chatou</wikiref>
+			</stop>
+			<stop>
+				<name>Paul Bert</name>
+				<wikiref>Paul_Bert_(Chatou)</wikiref>
+			</stop>
+			<stop>
+				<name>République Pathé</name>
+				<wikiref>République_Pathé</wikiref>
+			</stop>
+			<stop>
+				<name>République Leclerc</name>
+				<wikiref>République_Leclerc</wikiref>
+			</stop>
+			<stop>
+				<name>Claude Monet</name>
+				<wikiref>Claude_Monet_(Chatou)</wikiref>
+			</stop>
+			<stop terminus='true'>
+				<name>Renoir</name>
+				<wikiref>Renoir_(Chatou)</wikiref>
+			</stop>
+			<stop>
+				<name>Maurice de Vlaminck</name>
+				<wikiref>Maurice_de_Vlaminck</wikiref>
+			</stop>
+			<stop terminus='true'>
+				<name>Poste</name>
+				<wikiref>Poste_(Montesson)</wikiref>
+			</stop>
+			<stop>
+				<name>Aristide Briand</name>
+				<wikiref>Aristide_Briand_(Montesson)</wikiref>
+			</stop>
+		</branch>
+		<loop>
+			<loopup>
+				<stop>
+					<name>Champs Roger</name>
+					<wikiref>Champs_Roger</wikiref>
+				</stop>
+				<stop>
+					<name>Le Montoir</name>
+					<wikiref>Le_Montoir</wikiref>
+				</stop>
+				<stop>
+					<name>Sainte-Honorine</name>
+					<wikiref>Sainte-Honorine_(Montesson)</wikiref>
+				</stop>
+				<stop>
+					<name>Jean Macé</name>
+					<wikiref>Jean_Macé_(Montesson)</wikiref>
+				</stop>
+				<stop>
+					<name>La Tour</name>
+					<wikiref>La_Tour_(Montesson)</wikiref>
+				</stop>
+				<stop terminus='true'>
+					<name>Jardins Familiaux</name>
+					<wikiref>Jardins_Familiaux</wikiref>
+				</stop>
+			</loopup>
+			<loopdown>
+				<stop>
+					<name>Marais</name>
+					<wikiref>Marais_(Montesson)</wikiref>
+				</stop>
+				<stop>
+					<name>Cimetière</name>
+					<wikiref>Cimetière_de_Montesson</wikiref>
+				</stop>
+			</loopdown>
+		</loop>
+		<branch>
+			<stop>
+				<name>Péri Borde</name>
+				<wikiref>Péri_Borde</wikiref>
+			</stop>
+			<stop>
+				<name>Théophile Roussel</name>
+				<wikiref>Théophile_Roussel</wikiref>
+			</stop>
+			<stop>
+				<name>Ferdinand Buisson</name>
+				<wikiref>Ferdinand_Buisson_(Montesson)</wikiref>
+			</stop>
+			<stop>
+				<name>Centre Commercial Carrefour</name>
+				<wikiref>Centre_Commercial_Carrefour</wikiref>
+			</stop>
+			<stop>
+				<name>Montgolfier</name>
+				<wikiref>Montgolfier_(Sartrouville)</wikiref>
+			</stop>
+			<stop>
+				<name>Strasbourg</name>
+				<wikiref>Strasbourg_(Sartrouville)</wikiref>
+			</stop>
+			<stop terminus='true' curz='end'>
+				<name>Gare de Sartrouville</name>
+				<wikiref>Gare_Routière_de_Sartrouville</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
