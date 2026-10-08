@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="bleu_clair" maxpb="1" output="Plan1229.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Cergy – Pontoise Confluence/">
+    <line>
+        <branch>
+			<stop terminus="true" curz='start'>
+				<name>Gare de Neuville – Université</name>
+				<wikiref>Gare_Routière_de_Neuville_Université</wikiref>
+			</stop>
+			<stop>
+				<name>Le Pont</name>
+				<wikiref>Le_Pont_(Neuville-sur-Oise)</wikiref>
+			</stop>
+			<stop>
+				<name>Le Stade</name>
+				<wikiref>Le_Stade_(Neuville-sur-Oise)</wikiref>
+			</stop>
+			<stop>
+				<name>Île de Loisirs</name>
+				<wikiref>Île_de_Loisirs_(Neuville-sur-Oise)</wikiref>
+			</stop>
+			<stop>
+				<name>Brûloir – Hautil</name>
+				<wikiref>Brûloir_–_Hautil</wikiref>
+			</stop>
+			<stop>
+				<name>Conseil Départemental</name>
+				<wikiref>Conseil_Départemental</wikiref>
+			</stop>
+			<stop>
+				<name>Les Plants</name>
+				<wikiref>Les_Plants</wikiref>
+			</stop>
+			<stop>
+				<name>Gare de Cergy – Préfecture</name>
+				<wikiref>Gare_Routière_de_Cergy_–_Préfecture</wikiref>
+			</stop>
+			<stop>
+				<name>Plateau Saint-Martin</name>
+				<wikiref>Plateau_Saint-Martin</wikiref>
+			</stop>
+			<stop terminus='true' curz='end'>
+				<name>Gare de Pontoise – Canrobert</name>
+				<wikiref>Gare_Routière_Canrobert</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
