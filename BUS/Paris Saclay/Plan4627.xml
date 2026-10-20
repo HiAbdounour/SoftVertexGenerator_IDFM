@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="turquoise" maxpb="1" output="Plan4627.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Paris Saclay/">
+    <line>
+        <branch>
+			<stop terminus="true" curz='start'>
+				<name>Centre Commercial Les Ulis 2 Aubrac</name>
+				<wikiref>Centre_Commercial_Les_Ulis_2_Aubrac</wikiref>
+			</stop>
+			<stop>
+				<name>Cévennes</name>
+				<wikiref>Cévennes_(Les_Ulis)</wikiref>
+			</stop>
+			<stop>
+				<name>Stade</name>
+				<wikiref>Stade_(Les_Ulis)</wikiref>
+			</stop>
+			<stop>
+				<name>Cévennes</name>
+				<wikiref>Cévennes_(Les_Ulis)</wikiref>
+			</stop>
+			<stop>
+				<name>Mairie des Ulis Place de la Liberté</name>
+				<wikiref>Mairie_des_Ulis_Place_de_la_Liberté</wikiref>
+			</stop>
+			<stop>
+				<name>Passerelle Automne</name>
+				<wikiref>Passerelle_Automne</wikiref>
+			</stop>
+			<stop>
+				<name>Île-de-France</name>
+				<wikiref>Île-de-France_(Les_Ulis)</wikiref>
+			</stop>
+			<stop>
+				<name>Tournemire</name>
+				<wikiref>Tournemire_(Les_Ulis)</wikiref>
+			</stop>
+			<stop>
+				<name>IHES</name>
+				<wikiref>IHES</wikiref>
+			</stop>
+			<stop>
+				<name>Grand Mesnil</name>
+				<wikiref>Grand_Mesnil_(Les_Ulis)</wikiref>
+			</stop>
+			<stop only="down">
+				<name>Chartres</name>
+				<wikiref>Chartres_(Les_Ulis)</wikiref>
+			</stop>
+			<stop only="down">
+				<name>Gare d'Orsay Ville</name>
+				<note>Arrêt en retrait</note>
+				<wikiref>Gare_d'Orsay_Ville</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Gare d'Orsay Ville</name>
+				<note>Gare routière</note>
+				<wikiref>Gare_Routière_Orsay_Ville</wikiref>
+			</stop>
+			<stop>
+				<name>Mairie d'Orsay</name>
+				<wikiref>Mairie_d'Orsay</wikiref>
+			</stop>
+			<stop>
+				<name>Guy Môquet</name>
+				<wikiref>Guy_Môquet</wikiref>
+			</stop>
+			<stop>
+				<name>Université Paris Saclay</name>
+				<wikiref>Université_Paris_Saclay_Métro</wikiref>
+			</stop>
+			<stop>
+				<name>Palaiseau Campus</name>
+				<wikiref>Palaiseau_Campus</wikiref>
+			</stop>
+			<stop>
+				<name>Place Marguerite Perey</name>
+				<wikiref>Place_Marguerite_Perey</wikiref>
+			</stop>
+			<stop terminus='true' curz='end'>
+				<name>Polytechnique Vauve</name>
+				<wikiref>Polytechnique_Vauve</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
