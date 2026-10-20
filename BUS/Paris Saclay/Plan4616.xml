@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="orange" maxpb="1" output="Plan4616.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Paris Saclay/">
+    <line>
+        <branch>
+			<stop terminus="true" curz='start'>
+				<name>Razel</name>
+				<wikiref>Razel</wikiref>
+			</stop>
+			<stop>
+				<name>Mairie de Saclay</name>
+				<wikiref>Mairie_de_Saclay</wikiref>
+			</stop>
+			<stop>
+				<name>La Martinière</name>
+				<wikiref>La_Martinière_(Saclay)</wikiref>
+			</stop>
+			<stop>
+				<name>Abbaye – Cimetière</name>
+				<wikiref>Abbaye_–_Cimetière</wikiref>
+			</stop>
+			<stop>
+				<name>Grands Champs – Favreuse</name>
+				<wikiref>Grands_Champs_–_Favreuse</wikiref>
+			</stop>
+			<stop>
+				<name>Mairie de Vauhallan</name>
+				<wikiref>Mairie_de_Vauhallan</wikiref>
+			</stop>
+			<stop>
+				<name>Les Castors</name>
+				<wikiref>Les_Castors_(Vauhallan)</wikiref>
+			</stop>
+			<stop>
+				<name>Bouton d'Or</name>
+				<wikiref>Bouton_d'Or</wikiref>
+			</stop>
+			<stop>
+				<name>Bellevue – Kennedy</name>
+				<wikiref>Bellevue_–_Kennedy</wikiref>
+			</stop>
+			<stop>
+				<name>Mairie d'Igny</name>
+				<wikiref>Mairie_d'Igny</wikiref>
+			</stop>			
+			<stop terminus='true' curz='end'>
+				<name>Gare d'Igny</name>
+				<wikiref>Gare_d'Igny</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
