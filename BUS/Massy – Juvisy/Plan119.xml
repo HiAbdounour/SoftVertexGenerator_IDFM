@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="jaune_vif" maxpb="2" output="Plan119.svg">
+    <line>
+        <branch>
+			<stop terminus='true' curz='start'>
+				<name>Gare Routière Vilmorin</name>
+				<wikiref>Gare_Routière_Vilmorin</wikiref>
+				<note>Gare de Massy – Palaiseau</note>
+			</stop>
+			<stop>
+				<name>Raymond Aron</name>
+				<wikiref>Raymond_Aron_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Président Allende</name>
+				<wikiref>Président_Allende_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Lycée de Vilgénis</name>
+				<wikiref>Lycée_de_Vilgénis</wikiref>
+			</stop>
+			<stop>
+				<name>Georges Mandel</name>
+				<wikiref>Georges_Mandel_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Boulevard du 1er Mai</name>
+				<wikiref>Boulevard_du_1er_Mai_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Lycée Fustel de Coulanges</name>
+				<wikiref>Lycée_Fustel_de_Coulanges</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Charles de Gaulle</name>
+				<wikiref>Charles_de_Gaulle_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Mairie de Massy</name>
+				<wikiref>Mairie_de_Massy</wikiref>
+			</stop>
+			<stop only="down">
+				<name>La Tuilerie</name>
+				<wikiref>La_Tuilerie_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>8 Mai 1945</name>
+				<wikiref>8_Mai_1945_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Gabriel Péri</name>
+				<wikiref>Gabriel_Péri_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Jean Mermoz</name>
+				<wikiref>Jean_Mermoz_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Australie</name>
+				<wikiref>Australie_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Moscou - Rome</name>
+				<wikiref>Moscou_-_Rome_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Hélène Boucher</name>
+				<wikiref>Hélène_Boucher_(Massy)</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Avenue Saint-Marc</name>
+				<wikiref>Avenue_Saint-Marc</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Centre Sportif Lionel Terray</name>
+				<wikiref>Centre_Sportif_Lionel_Terray</wikiref>
+			</stop>
+			<stop only="down">
+				<name>Rue des Canadiens</name>
+				<wikiref>Rue_des_Canadiens</wikiref>
+			</stop>
+			<stop>
+				<name>Hôpital Jacques Cartier</name>
+				<wikiref>Hôpital_Jacques_Cartier</wikiref>
+			</stop>
+			<stop>
+				<name>Bourgogne</name>
+				<wikiref>Bourgogne_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Président J.F. Kennedy</name>
+				<wikiref>Président_J.F._Kennedy_(Antony)</wikiref>
+			</stop>
+			<stop>
+				<name>Centre Commercial des Baconnets</name>
+				<wikiref>Centre_Commercial_des_Baconnets</wikiref>
+			</stop>
+			<stop terminus='true' curz='end'>
+				<name>Gare des Baconnets</name>
+				<wikiref>Gare_des_Baconnets</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="vert_clair" maxpb="2" output="Plan219.svg">
+    <line>
+        <branch>
+			<stop terminus='true' curz='start'>
+				<name>Christ de Saclay</name>
+				<wikiref>Christ_de_Saclay</wikiref>
+			</stop>
+			<stop>
+				<name>La Martinière</name>
+				<wikiref>La_Martinière_(Saclay)</wikiref>
+			</stop>
+			<stop>
+				<name>Abbaye - Cimetière</name>
+				<wikiref>Abbaye_-_Cimetière</wikiref>
+			</stop>
+			<stop>
+				<name>Grands Champs - Favreuse</name>
+				<wikiref>Grands_Champs_-_Favreuse</wikiref>
+			</stop>
+			<stop>
+				<name>Mairie de Vauhallan</name>
+				<wikiref>Mairie_de_Vauhallan</wikiref>
+			</stop>
+			<stop>
+				<name>Les Castors</name>
+				<wikiref>Les_Castors_(Vauhallan)</wikiref>
+			</stop>
+			<stop>
+				<name>Bouton d'Or</name>
+				<wikiref>Bouton_d'Or_(Vauhallan)</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Albert Sarraut</name>
+				<wikiref>Albert_Sarraut_(Igny)</wikiref>
+			</stop>
+			<stop>
+				<name>La Ferme</name>
+				<wikiref>La_Ferme_(Igny)</wikiref>
+			</stop>
+			<stop>
+				<name>Jules Ferry - République</name>
+				<wikiref>Jules_Ferry_-_République_(Igny)</wikiref>
+			</stop>
+			<stop>
+				<name>Le Gymnase</name>
+				<wikiref>Le_Gymnase_(Igny)</wikiref>
+			</stop>
+		</branch>
+		<loop>
+			<loopdown>
+				<stop>
+					<name>Ruchères</name>
+					<wikiref>Ruchères_(Igny)</wikiref>
+				</stop>
+				<stop>
+					<name>Igny Entreprises</name>
+					<wikiref>Igny_Entreprises</wikiref>
+				</stop>
+				<stop>
+					<name>Rue du Pileu</name>
+					<wikiref>Rue_du_Pileu</wikiref>
+				</stop>
+				<stop>
+					<name>La Vieille Vigne</name>
+					<wikiref>La_Vieille_Vigne_(Igny)</wikiref>
+				</stop>
+			</loopdown>
+			<loopup>
+				<stop>
+					<name>Yvette</name>
+					<wikiref>Yvette_(Palaiseau)</wikiref>
+				</stop>
+				<stop>
+					<name>Cent Marches</name>
+					<wikiref>Cent_Marches_(Igny)</wikiref>
+				</stop>
+			</loopup>
+		</loop>
+		<branch>
+			<stop>
+				<name>Marché du Pileu</name>
+				<wikiref>Marché_du_Pileu</wikiref>
+			</stop>
+			<stop>
+				<name>Parc de l'Effort Mutuel</name>
+				<wikiref>Parc_de_l'Effort_Mutuel</wikiref>
+			</stop>
+			<stop>
+				<name>Clos Berthelot</name>
+				<wikiref>Clos_Berthelot_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Centre Commercial</name>
+				<wikiref>Centre_Commercial_(Massy)</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Rond-Point du Pileu</name>
+				<wikiref>Rond-Point_du_Pileu</wikiref>
+			</stop>
+			<stop>
+				<name>Parc de Vilgénis</name>
+				<wikiref>Parc_de_Vilgénis</wikiref>
+			</stop>
+			<stop>
+				<name>Lycée de Vilgénis</name>
+				<wikiref>Lycée_de_Vilgénis</wikiref>
+			</stop>
+			<stop>
+				<name>Président Allende</name>
+				<wikiref>Président_Allende_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Clos de Villaine</name>
+				<wikiref>Clos_de_Villaine</wikiref>
+			</stop>
+			<stop>
+				<name>Les Ruelles</name>
+				<wikiref>Les_Ruelles_(Massy)</wikiref>
+			</stop>
+			<stop terminus='true' curz='end'>
+				<name>Gare Routière Vilmorin</name>
+				<wikiref>Gare_Routière_Vilmorin</wikiref>
+				<note>Gare de Massy – Palaiseau</note>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>

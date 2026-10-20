@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="jaune_ocre" maxpb="2" output="Plan176.svg">
+    <line>
+        <branch>
+			<stop terminus='true' curz='start'>
+				<name>Pont de Neuilly</name>
+				<wikiref>Pont_de_Neuilly</wikiref>
+			</stop>
+			<stop>
+				<name>Pont de Neuilly - Rive Gauche</name>
+				<wikiref>Pont_de_Neuilly_-_Rive_Gauche</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Bellini</name>
+				<wikiref>Bellini_(Puteaux)</wikiref>
+			</stop>
+			<stop only="up">
+				<name>RD 7 - Pont de Neuilly</name>
+				<wikiref>RD_7_-_Pont_de_Neuilly</wikiref>
+			</stop>
+			<stop>
+				<name>Paul Doumer</name>
+				<wikiref>Paul_Doumer_(Courbevoie)</wikiref>
+			</stop>
+			<stop>
+				<name>Victor Hugo</name>
+				<wikiref>Victor_Hugo_(Courbevoie)</wikiref>
+			</stop>
+			<stop>
+				<name>Place Charras</name>
+				<wikiref>Place_Charras</wikiref>
+			</stop>
+			<stop>
+				<name>Gare de Courbevoie</name>
+				<wikiref>Gare_de_Courbevoie</wikiref>
+			</stop>
+			<stop>
+				<name>Place du 8 Mai 1945</name>
+				<wikiref>Place_du_8_Mai_1945_(Courbevoie)</wikiref>
+			</stop>
+			<stop>
+				<name>Rhin et Danube</name>
+				<wikiref>Rhin_et_Danube_(La_Garenne-Colombes)</wikiref>
+			</stop>
+			<stop>
+				<name>Nordmann</name>
+				<wikiref>Nordmann</wikiref>
+			</stop>
+			<stop>
+				<name>Charlebourg</name>
+				<wikiref>Charlebourg</wikiref>
+			</stop>
+			<stop>
+				<name>Gare de La Garenne-Colombes</name>
+				<wikiref>Gare_de_La_Garenne-Colombes</wikiref>
+			</stop>
+			<stop>
+				<name>Colbert</name>
+				<wikiref>Colbert_(La_Garenne-Colombes)</wikiref>
+			</stop>
+			<stop>
+				<name>Rue du Commerce</name>
+				<wikiref>Rue_du_Commerce_(La_Garenne-Colombes)</wikiref>
+			</stop>
+		</branch>
+		<loop>
+			<loopdown>
+				<stop>
+					<name>Gros Grès</name>
+					<wikiref>Gros_Grès</wikiref>
+				</stop>
+			</loopdown>
+			<loopup>
+				<stop>
+					<name>Rue de l'Industrie</name>
+					<wikiref>Rue_de_l'Industrie_(La_Garenne-Colombes)</wikiref>
+				</stop>
+			</loopup>
+		</loop>
+		<branch>
+			<stop>
+				<name>Ostyn</name>
+				<wikiref>Ostyn</wikiref>
+			</stop>
+			<stop>
+				<name>Jacques Éléonor Fermé</name>
+				<wikiref>Jacques_Éléonor_Fermé</wikiref>
+			</stop>
+			<stop terminus='true'>
+				<name>Église de Colombes</name>
+				<wikiref>Église_de_Colombes</wikiref>
+			</stop>
+			<stop only="down">
+				<name>Général Leclerc</name>
+				<wikiref>Général_Leclerc_(Colombes)</wikiref>
+			</stop>
+			<stop>
+				<name>Fraternité</name>
+				<wikiref>Fraternité_(Colombes)</wikiref>
+			</stop>
+			<stop>
+				<name>Valmy - Gambetta - Stade</name>
+				<wikiref>Valmy_-_Gambetta_-_Stade</wikiref>
+			</stop>
+			<stop>
+				<name>Boulevard d'Achères</name>
+				<wikiref>Boulevard_d'Achères</wikiref>
+			</stop>
+			<stop terminus='true' curz='end'>
+				<name>Petit Gennevilliers</name>
+				<wikiref>Petit_Gennevilliers</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
