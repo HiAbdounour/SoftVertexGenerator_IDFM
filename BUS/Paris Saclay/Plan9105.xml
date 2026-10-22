@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="bleu_clair" maxpb="1" output="Plan9105.svg" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Paris Saclay/">
+    <line>
+        <branch>
+			<stop terminus="true" curz='start'>
+				<name>Polytechnique Vauve</name>
+				<wikiref>Centre_Commercial_Les_Ulis_2_Aubrac</wikiref>
+			</stop>
+			<stop>
+				<name>Place Marguerite Perey</name>
+				<wikiref>Place_Marguerite_Perey</wikiref>
+			</stop>
+			<stop>
+				<name>Hôpital Paris Saclay</name>
+				<wikiref>Hôpital_Paris_Saclay</wikiref>
+			</stop>
+			<stop>
+				<name>Université Paris Saclay</name>
+				<wikiref>Université_Paris_Saclay_Métro</wikiref>
+			</stop>
+			<stop>
+				<name>Gare du Guichet</name>
+				<wikiref>Gare_Routière_du_Guichet</wikiref>
+			</stop>
+			<stop>
+				<name>Rond-Point de Mondétour</name>
+				<wikiref>Rond-Pont_de_Mondétour</wikiref>
+			</stop>
+			<stop>
+				<name>La Queue d'Oiseau</name>
+				<wikiref>La_Queue_d'Oiseau</wikiref>
+			</stop>
+			<stop>
+				<name>Château d'eau de Linas</name>
+				<wikiref>Château_d'eau_de_Linas</wikiref>
+			</stop>
+			<stop>
+				<name>ZI Croix Blanche</name>
+				<wikiref>ZI_Croix_Blanche</wikiref>
+			</stop>
+			<stop>
+				<name>Saint-Guénault</name>
+				<wikiref>Saint-Guénault_(Évry-Courcouronnes)</wikiref>
+			</stop>
+			<stop>
+				<name>Sabatier</name>
+				<wikiref>Sabatier</wikiref>
+			</stop>
+			<stop>
+				<name>Institut de Biologie</name>
+				<wikiref>Institut_de_Biologie_(Évry-Courcouronnes)</wikiref>
+			</stop>
+			<stop terminus='true' curz='end'>
+				<name>Gare du Bras de Fer</name>
+				<wikiref>Gare_Routière_du_Bras_de_Fer</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
