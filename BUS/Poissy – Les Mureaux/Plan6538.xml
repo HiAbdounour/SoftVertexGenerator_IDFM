@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="bleu_clair" output="Plan6538.svg" maxpb="1" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Poissy – Les Mureaux/">
+    <line>
+		<branch>
+			<stop terminus="true" curz="start">
+				<name>Les Clairières de Verneuil</name>
+				<wikiref>Gare_Routière_des_Clairières_de_Verneuil</wikiref>
+			</stop>
+			<stop terminus="true" curz="end">
+				<name>Base de loisirs – Val de Seine</name>
+				<wikiref>Base_de_loisirs_–_Val_de_Seine</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
