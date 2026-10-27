@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="jaune_vif" output="Plan5154.svg" maxpb="1" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Île-de-France Ouest/">
+    <line>
+		<branch>
+			<stop terminus="true" curz="start">
+				<name>Gare de Saint-Quentin-en-Yvelines M.-le-B.</name>
+				<note>Gare routière des Prés</note>
+				<wikiref>Gare_Routière_des_Prés</wikiref>
+			</stop>
+			<stop>
+				<name>Lycée Émilie de Breteuil</name>
+				<wikiref>Lycée_Émilie_de_Breteuil</wikiref>
+			</stop>
+			<stop>
+				<name>D'Alembert</name>
+				<wikiref>D'Alembert_(Montigny-le-Bretonneux)</wikiref>
+			</stop>
+			<stop>
+				<name>Jean Monnet</name>
+				<wikiref>Jean_Monnet_(Guyancourt)</wikiref>
+			</stop>
+			<stop>
+				<name>Le Corbusier</name>
+				<wikiref>Le_Corbusier_(Guyancourt)</wikiref>
+			</stop>
+			<stop>
+				<name>D'Alembert</name>
+				<wikiref>D'Alembert_(Montigny-le-Bretonneux)</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Guynemer</name>
+				<wikiref>Guynemer_(Guyancourt)</wikiref>
+			</stop>
+			<stop only="down">
+				<name>Golf National</name>
+				<wikiref>Golf_National</wikiref>
+			</stop>
+			<stop>
+				<name>Mérantais</name>
+				<wikiref>Mérantais</wikiref>
+			</stop>
+			<stop>
+				<name>Geneviève Aubé RD36</name>
+				<wikiref>Geneviève_Aubé_RD36</wikiref>
+			</stop>wikiref
+			<stop>
+				<name>Rond-Point</name>
+				<wikiref>Rond-Point_(Châteaufort)</wikiref>
+			</stop>
+			<stop>
+				<name>Le Thuit</name>
+				<wikiref>Le_Thuit</wikiref>
+			</stop>
+			<stop>
+				<name>Rond-Point Maison Foujita</name>
+				<wikiref>Rond-Point_de_Villiers_–_Maison_Foujita</wikiref>
+			</stop>
+			<stop>
+				<name>CEA Porte Nord</name>
+				<wikiref>CEA_Porte_Nord</wikiref>
+			</stop>
+			<stop>
+				<name>Christ de Saclay</name>
+				<wikiref>Gare_Routière_Christ_de_Saclay</wikiref>
+			</stop>
+			<stop>
+				<name>Raoul Dautry CEA Porte Est</name>
+				<wikiref>Raoul_Dautry_CEA_Porte_Est</wikiref>
+			</stop>
+			<stop>
+				<name>Mare du Vivier CEA Porte Sud</name>
+				<wikiref>Mare_du_Vivier_CEA_Porte_Sud</wikiref>
+			</stop>
+			<stop>
+				<name>Saint-Aubin</name>
+				<wikiref>Saint-Aubin_(Saint-Aubin)</wikiref>
+			</stop>
+			<stop>
+				<name>Orme des Merisiers</name>
+				<wikiref>Orme_des_Merisiers</wikiref>
+			</stop>
+			<stop only="down">
+				<name>Plaine des Sports</name>
+				<wikiref>Plaine_des_Sports_(Gif-sur-Yvette)</wikiref>
+			</stop>
+			<stop>
+				<name>Joliot Curie</name>
+				<wikiref>Joliot_Curie_(Gif-sur-Yvette)</wikiref>
+			</stop>
+			<stop>
+				<name>Moulon</name>
+				<wikiref>Moulon</wikiref>
+			</stop>
+			<stop>
+				<name>Université Paris Saclay</name>
+				<wikiref>Université_Paris_Saclay_Métro</wikiref>
+			</stop>
+			<stop>
+				<name>Hôpital Paris Saclay</name>
+				<wikiref>Hôpital_Paris_Saclay</wikiref>
+			</stop>
+			<stop>
+				<name>Place Marguerite Perey</name>
+				<wikiref>Place_Marguerite_Perey</wikiref>
+			</stop>
+			<stop>
+				<name>Ferme de la Vauve</name>
+				<wikiref>Ferme_de_la_Vauve</wikiref>
+			</stop>
+			<stop>
+				<name>Polytechnique Lozère</name>
+				<wikiref>Polytechnique_Lozère</wikiref>
+			</stop>
+			<stop>
+				<name>ENSTA Les Joncherettes</name>
+				<wikiref>ENSTA_Les_Joncherettes</wikiref>
+			</stop>
+			<stop>
+				<name>Centre d'exploitation</name>
+				<wikiref>Centre_d'exploitation</wikiref>
+			</stop>
+			<stop>
+				<name>Camille Claudel</name>
+				<wikiref>Camille_Claudel_(Palaiseau)</wikiref>
+			</stop>
+			<stop>
+				<name>La Vallée</name>
+				<wikiref>La_Vallée_(Palaiseau)</wikiref>
+			</stop>
+			<stop>
+				<name>Palaiseau Ville</name>
+				<wikiref>Palaiseau_Ville</wikiref>
+			</stop>
+			<stop>
+				<name>Gare de Massy – Palaiseau</name>
+				<wikiref>Gare_Routière_Atlantis</wikiref>
+			</stop>
+			<stop>
+				<name>La Tuilerie</name>
+				<wikiref>La_Tuilerie_(Massy)</wikiref>
+			</stop>
+			<stop>
+				<name>Avenue de l'Europe – Centre Commercial</name>
+				<wikiref>Avenue_de_l'Europe_–_Centre_Commercial</wikiref>
+			</stop>
+			<stop>
+				<name>Vieille Remise</name>
+				<wikiref>Vieille_Remise</wikiref>
+			</stop>
+			<stop>
+				<name>ZI Montavas</name>
+				<wikiref>ZI_Montavas</wikiref>
+			</stop>
+			<stop>
+				<name>Cucheron</name>
+				<wikiref>Cucheron</wikiref>
+			</stop>
+			<stop>
+				<name>La Fraternelle</name>
+				<wikiref>La_Fraternelle_T7</wikiref>
+			</stop>
+			<stop>
+				<name>Robert Schuman</name>
+				<wikiref>Robert_Schuman_T7</wikiref>
+			</stop>
+			<stop>
+				<name>Toronto</name>
+				<wikiref>Toronto</wikiref>
+			</stop>
+			<stop>
+				<name>Commandant Mouchotte</name>
+				<wikiref>Commandant_Mouchotte</wikiref>
+			</stop>
+			<stop>
+				<name>Mérantais</name>
+				<wikiref>Mérantais</wikiref>
+			</stop>
+			<stop>
+				<name>Aéroport d'Orly 4</name>
+				<wikiref>Aéroport_d'Orly_4</wikiref>
+			</stop>
+			<stop terminus="true" curz="end">
+				<name>Aéroport d'Orly 1-2-3</name>
+				<wikiref>Aéroport_d'Orly_1-2-3</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
