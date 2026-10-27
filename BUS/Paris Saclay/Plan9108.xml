@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="bleu_clair" output="Plan9108.svg" maxpb="2" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Paris Saclay/">
+    <line>
+		<branch>
+			<stop terminus="true" curz="start">
+				<name>Vélizy 2 Gare routière</name>
+				<wikiref>Gare_Routière_Vélizy_2</wikiref>
+			</stop>
+			<stop>
+				<name>Gare de Bièvres</name>
+				<wikiref>Gare_Routière_de_Bièvres</wikiref>
+				<note>Desservi une fois par sens en semaine</note>
+			</stop>
+			<stop terminus="true">
+				<name>Université Paris Saclay</name>
+				<wikiref>Université_Paris_Saclay_Métro</wikiref>
+			</stop>
+		</branch>
+		<branches>
+			<branch>
+				<stop>
+					<name>Hôpital Paris Saclay</name>
+					<wikiref>Hôpital_Paris_Saclay</wikiref>
+				</stop>
+				<stop>
+					<name>Place Marguerite Perey</name>
+					<wikiref>Place_Marguerite_Perey</wikiref>
+				</stop>
+				<stop terminus="true" curz="end">
+					<name>Polytechnique Vauve</name>
+					<wikiref>Polytechnique_Vauve</wikiref>
+				</stop>
+			</branch>
+			<branch>
+				<stop>
+					<name>Gare du Guichet</name>
+					<wikiref>Gare_Routière_du_Guichet</wikiref>
+				</stop>
+				<stop>
+					<name>Rond-Point de Mondétour</name>
+					<wikiref>Rond-Point_de_Mondétour</wikiref>
+				</stop>
+				<stop terminus="true" curz="end">
+					<name>Mairie des Ulis Place de la Liberté</name>
+					<wikiref>Mairie_des_Ulis_Place_de_la_Liberté</wikiref>
+				</stop>
+			</branch>
+		</branches>
+    </line>
+</svg_generation>
