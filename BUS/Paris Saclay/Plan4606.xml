@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xml>
-<svg_generation type="BUS" color="bleu_clair" output="Plan4606.svg" maxpb="2" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Paris Saclay/">
+<svg_generation type="TRAM" color="bleu_clair" output="Plan4606.svg" maxpb="2" savetime="../../../Downloads/SoftVertexGenerator_IDFM/BUS/Paris Saclay/">
     <line>
 		<branches>
 			<branch>
