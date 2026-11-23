@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<svg_generation type="BUS" color="rouge_coquelicot" maxpb="2" output="Plan6405_weekend.svg" savetime="../SoftVertexGenerator_IDFM/BUS/Argenteuil – Boucles de Seine/">
+    <line>
+		<branch>
+			<stop terminus="true" curz="start">
+				<name>Gare du Vésinet – Le Pecq</name>
+				<wikiref>Gare_Routière_Nord_(Le_Vésinet_–_Le_Pecq)</wikiref>
+			</stop>
+			<stop>
+				<name>Belloy</name>
+				<wikiref>Belloy</wikiref>
+			</stop>
+			<stop>
+				<name>Charmettes</name>
+				<wikiref>Charmettes</wikiref>
+			</stop>
+			<stop>
+				<name>Jules Ferry</name>
+				<wikiref>Jules_Ferry_(Chatou)</wikiref>
+			</stop>
+			<stop terminus="true">
+				<name>Aristide Briand</name>
+				<wikiref>Aristide_Briand_(Montesson)</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Marais</name>
+				<wikiref>Marais_(Montesson)</wikiref>
+			</stop>
+			<stop only="up">
+				<name>Cimetière</name>
+				<wikiref>Cimetière_de_Montesson</wikiref>
+			</stop>
+			<stop only="up">
+				<name>La Tour</name>
+				<wikiref>La_Tour_(Montesson)</wikiref>
+			</stop>
+		</branch>
+		<loop>
+			<loopup>
+				<stop>
+					<name>Marais</name>
+					<wikiref>Marais_(Montesson)</wikiref>
+				</stop>
+				<stop>
+					<name>Cimetière</name>
+					<wikiref>Cimetière_de_Montesson</wikiref>
+				</stop>
+				<stop>
+					<name>La Tour</name>
+					<wikiref>La_Tour_(Montesson)</wikiref>
+				</stop>
+				<stop>
+					<name>Jean Macé</name>
+					<wikiref>Jean_Macé_(Montesson)</wikiref>
+				</stop>
+				<stop>
+					<name>Sainte-Honorine</name>
+					<wikiref>Sainte-Honorine_(Montesson)</wikiref>
+				</stop>
+				<stop terminus="true">
+					<name>Château d'Eau</name>
+					<wikiref>Château_d'Eau_(Montesson)</wikiref>
+				</stop>
+			</loopup>
+			<loopdown>
+				<stop only="down">
+					<name>Poste</name>
+					<wikiref>Poste_(Montesson)</wikiref>
+				</stop>
+				<stop only="down">
+					<name>Champs Roger</name>
+					<wikiref>Champs_Roger</wikiref>
+				</stop>
+				<stop only="down">
+					<name>Le Montoir</name>
+					<wikiref>Le_Montoir</wikiref>
+				</stop>
+			</loopdown>
+		</loop>
+		<branch>
+			<stop terminus="true">
+				<name>Konica JVC</name>
+				<wikiref>Konica_JVC</wikiref>
+			</stop>
+			<stop>
+				<name>Lycée Les Pierres Vives</name>
+				<wikiref>Lycée_Les_Pierres_Vives</wikiref>
+			</stop>
+			<stop>
+				<name>Cerisier</name>
+				<wikiref>Cerisier</wikiref>
+			</stop>
+			<stop>
+				<name>Buzenval</name>
+				<wikiref>Buzenval</wikiref>
+			</stop>
+			<stop>
+				<name>Gandillet</name>
+				<wikiref>Gandillet</wikiref>
+			</stop>
+			<stop terminus="true" curz="end">
+				<name>Gare de Houilles – Carrières-sur-Seine</name>
+				<wikiref>Gare_Routière_de_Houilles_–_Carrières-sur-Seine</wikiref>
+			</stop>
+		</branch>
+    </line>
+</svg_generation>
